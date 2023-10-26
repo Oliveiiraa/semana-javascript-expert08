@@ -440,7 +440,7 @@
   gap: 5px;
   position: absolute;
   top: 204px;
-  left: 40%;
+  left: 42%;
 }
 
 .desktop .p {
@@ -811,7 +811,7 @@
 
 .desktop .frame-wrapper {
   position: absolute;
-  width: 1440px;
+  width: 100%;
   height: 136px;
   top: 1222px;
   left: 0;
@@ -826,7 +826,7 @@
   gap: 5.49px;
   position: relative;
   top: 51px;
-  left: 599px;
+  left: 45%;
 }
 
 .desktop .text-wrapper-9 {
